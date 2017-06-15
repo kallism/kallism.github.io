@@ -26,32 +26,7 @@ Filename: ./com.macciti.minecraftskinstheme_1.1_iphoneos-arm.deb
 Size: 443630
 MD5sum: 6eb5fd1dda7ca5758cecb914492366f9
 
-Package: net.netau.ikilledappl3.foldrnfoldr8
-Name: FoldrNFoldr8
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Allow Nested folders on iOS 8-8.1.2! This tweak is open source!
-Maintainer: ToxicAppl3 Inc. <ikilledappl3@ikilledappl3.netau.net>
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Section: Tweaks
-Version: 1.0-1
-Filename: ./net.netau.ikilledappl3.foldrnfoldr8_1.0-1-1_iphoneos-arm.deb
-Size: 3002
-MD5sum: 277366aec55cd148020193d7ebd85cd8
 
-Package: net.netau.ikilledappl3.nolivefilters8
-Name: NoLiveFilters8
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Description: Disable the Live Effects! This tweak is open source!
-Website: https://github.com/ToxicAppl3Inc/toxicappl3inc.github.io/tree/master/repo/OpenSourceTweaks/nolivefilters8/
-Maintainer: iKilledAppl3 <ipodnewbee234@icloud.com>
-Author: iKilledAppl3 <ipodnewbee234@icloud.com>
-Section: Tweaks
-Version: 1.0~beta2-2
-Filename: ./net.netau.ikilledappl3.nolivefilters8_1.0~beta2-1_iphoneos-arm.deb
-Size: 3176 
-MD5sum: 5f07effba42c0ff392529286788363fe
 
 Package: com.ikilledappl3.anemoneloader
 Name: AnemoneLoader
@@ -92,19 +67,6 @@ Size: 81134
 Filename: ./io.toxicappl3inc.github.ios83musicicon_iphoneos-arm_1.0-2.deb
 MD5sum: a35a0bd64f6e77e5901c9fa1a20dc039
 
-Package: com.yournamehere.welcomestranger
-Name: WelcomeStranger
-Depends: mobilesubstrate
-Version: 1.0
-Architecture: iphoneos-arm
-Description: A simple UIAlertView tweak for beginner iOS coders! *Created by iKilledAppl3* it's opensource! click the view website option!
-Website: https://github.com/ToxicAppl3Inc/toxicappl3inc.github.io/tree/master/repo/OpenSourceTweaks/welcomestranger/
-Maintainer: YourName <user@yourdomain.com>
-Author: YourName <user@yourdomain.com>
-Section: Tweaks
-Size: 3932
-Filename: ./com.yournamehere.welcomestranger_1.0-1_iphoneos-arm.deb
-MD5sum: 12cae76b789533b02acc9da6c00ed7cb
 
 Package: com.ikilledappl3.ios9beta5walls
 Name: iOS 9 Beta 5 Wallpapers
