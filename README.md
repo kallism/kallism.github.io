@@ -1,4 +1,4 @@
-# ToxicAppl3 Inc's Website and amongst other misc items.
+# Kallism's Website and amongst other misc items.
 The website of @kallism's affiliation.
 This is a revamped version anything here can be used as long as credit is given to @kallism.
 
