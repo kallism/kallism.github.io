@@ -235,7 +235,7 @@ Package: com.michalis.ext3nder_0.9.41%5f010d-3_iphoneos-arm
 Name: Ext3nder
 Author: Kallism <michaliskallis@icloud.com>
 Maintainer: Kallism <michaliskallis@icloud.com>
-Version: 0.9.41d3
+Version: 0.9.41
 Description: Ext3nder by JulioVerne
 Architecture: iphoneos-arm
 Section: Apps 
