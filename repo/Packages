@@ -205,7 +205,7 @@ Size: 1197058
 Filename: ./com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
 MD5sum: 000d8e7e5f91feff27ebd31e221d9731
 
-Package: com.michalis.rocketbootstrap_1-0-5
+Package: com.michalis.rocketbootstrap
 Name: RocketBootstrap
 Author: Kallism <michaliskallis@icloud.com>
 Maintainer: Kallism <michaliskallis@icloud.com>
@@ -214,7 +214,7 @@ Description: RocketBoostrap by Ryan Petrich
 Architecture: iphoneos-arm
 Section: Dependencies 
 Size: 49614
-Filename: ./com.michalis.rocketbootstrap_1-0-5.deb
+Filename: ./com.michalis.rocketbootstrap.deb
 MD5sum: 5fc983b20c61ed65e105fcafd6062245
 
 Package: com.michalis.flex3
@@ -225,7 +225,7 @@ Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 3.0
 Description: Flex 3 by John Coates
 Architecture: iphoneos-arm
-Depends: com.michalis.rocketbootstrap_1-0-5
+Depends: RocketBoostrap
 Section: Apps 
 Size: 11133670
 Filename: ./com.michalis.flex3.deb
@@ -242,3 +242,39 @@ Section: Apps
 Size: 1812310
 Filename: ./com.michalis.ext3nder
 MD5sum: 52ee291e43b001472a66d05721b8742c
+
+Package: com.michalis.aerotv
+Name: AeroTV
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 1.0
+Description: AeroTV
+Architecture: iphoneos-arm
+Section: Apps 
+Size: 24872792
+Filename: ./com.michalis.aerotv.deb
+MD5sum: b403301c56e6ebd6bd04a37dc154021b
+
+Package: com.michalis.appsyncunified
+Name: AppsyncUnified
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 6.0 beta1
+Description: Appsync Unified by Angelxwind
+Architecture: iphoneos-arm
+Section: Apps 
+Size: 28060
+Filename: ./com.michalis.appsyncunified.deb
+MD5sum: 08ebf3470673bd5297e8f15e1d8c35da
+
+Package: com.michalis.bobbymoviebox
+Name: Bobby Movie Box
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 3.1.2
+Description: Watch free Movies 
+Architecture: iphoneos-arm
+Section: Entertainment 
+Size: 9213580
+Filename: ./com.michalis.bobbymoviebox
+MD5sum: e45db568681fa51af8e4ba181e3c6b0e
