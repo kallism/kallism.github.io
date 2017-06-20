@@ -205,7 +205,7 @@ Size: 1197058
 Filename: ./com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
 MD5sum: 000d8e7e5f91feff27ebd31e221d9731
 
-Package: com.michalis.rocketbootstrap_1.0-5
+Package: com.michalis.rocketbootstrap_1-0-5
 Name: RocketBootstrap
 Author: Kallism <michaliskallis@icloud.com>
 Maintainer: Kallism <michaliskallis@icloud.com>
@@ -214,7 +214,7 @@ Description: RocketBoostrap by Ryan Petrich
 Architecture: iphoneos-arm
 Section: Dependencies 
 Size: 49614
-Filename: ./com.michalis.rocketbootstrap_1.0-5.deb
+Filename: .com.michalis.rocketbootstrap_1-0-5.deb
 MD5sum: 5fc983b20c61ed65e105fcafd6062245
 
 Package: com.michalis.flex3
@@ -225,7 +225,7 @@ Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 3.0
 Description: Flex 3 by John Coates
 Architecture: iphoneos-arm
-Depends: com.rpetrich.rocketbootstrap_1.0.5_iphoneos-arm.deb
+Depends: com.michalis.rocketbootstrap_1-0-5
 Section: Apps 
 Size: 11133670
 Filename: ./com.michalis.flex3.deb
