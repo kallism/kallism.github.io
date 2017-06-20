@@ -205,16 +205,16 @@ Size: 1197058
 Filename: ./com.ikilledappl3.waterwave_1.0-2_iphoneos-arm.deb
 MD5sum: 000d8e7e5f91feff27ebd31e221d9731
 
-Package: com.michalis.rocketbootstrap
+Package: com.michalis.rocketbootstrap_1-0-5
 Name: RocketBootstrap
 Author: Kallism <michaliskallis@icloud.com>
 Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 1.0.5
-Description: RocketBoostrap by Ryan Petrich
+Description: RocketBootstrap by Ryan Petrich
 Architecture: iphoneos-arm
 Section: Dependencies 
 Size: 49614
-Filename: ./com.michalis.rocketbootstrap.deb
+Filename: ./com.michalis.rocketbootstrap_1-0-5.deb
 MD5sum: 5fc983b20c61ed65e105fcafd6062245
 
 Package: com.michalis.flex3
@@ -225,7 +225,7 @@ Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 3.0
 Description: Flex 3 by John Coates
 Architecture: iphoneos-arm
-Depends: RocketBoostrap
+Depends: RocketBootstrap
 Section: Apps 
 Size: 11133670
 Filename: ./com.michalis.flex3.deb
@@ -278,3 +278,16 @@ Section: Entertainment
 Size: 9213580
 Filename: ./com.michalis.bobbymoviebox
 MD5sum: e45db568681fa51af8e4ba181e3c6b0e
+
+Package: com.michalis.instagramplus
+Name: Instragram ++
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 1.6r
+Description: Adds extra features to Instagram
+Architecture: iphoneos-arm
+Section: Entertainment 
+Size: 1964340
+Filename: ./com.michalis.instagramplus.deb
+MD5sum: 78138dafad611c5b6ee776a9f7e35d05
+
