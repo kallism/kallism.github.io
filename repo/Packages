@@ -214,7 +214,7 @@ Description: RocketBoostrap by Ryan Petrich
 Architecture: iphoneos-arm
 Section: Dependencies 
 Size: 49614
-Filename: .com.michalis.rocketbootstrap_1-0-5.deb
+Filename: ./com.michalis.rocketbootstrap_1-0-5.deb
 MD5sum: 5fc983b20c61ed65e105fcafd6062245
 
 Package: com.michalis.flex3
@@ -231,3 +231,14 @@ Size: 11133670
 Filename: ./com.michalis.flex3.deb
 MD5sum: 13503844f9480ebe7d523fed20dbd718
 
+Package: com.michalis.ext3nder_0.9.41%5f010d-3_iphoneos-arm
+Name: Ext3nder
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 0.9.41d3
+Description: Ext3nder by JulioVerne
+Architecture: iphoneos-arm
+Section: Apps 
+Size: 1812310
+Filename: ./com.michalis.ext3nder_0.9.41%5f010d-3_iphoneos-arm.deb
+MD5sum: 52ee291e43b001472a66d05721b8742c
