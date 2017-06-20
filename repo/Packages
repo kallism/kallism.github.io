@@ -291,3 +291,14 @@ Size: 1964340
 Filename: ./com.michalis.instagramplus.deb
 MD5sum: 78138dafad611c5b6ee776a9f7e35d05
 
+Package: com.michalis.bobbymusic
+Name: Bobby Music
+Author: Kallism <michaliskallis@icloud.com>
+Maintainer: Kallism <michaliskallis@icloud.com>
+Version: 1.0
+Description: Free music
+Architecture: iphoneos-arm
+Section: Entertainment
+Size: 12121426
+Filename: ./com.michalis.bobbymusic.deb
+MD5sum: 920200049ad49c48c70bf062b17ac381
