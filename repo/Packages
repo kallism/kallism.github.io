@@ -60,7 +60,7 @@ Version: 3.0
 Description: Flex 3 by John Coates
 Architecture: iphoneos-arm
 Depends: RocketBootstrap
-Section: Apps 
+Section: Tweaks 
 Size: 11133670
 Filename: ./com.michalis.flex3.deb
 MD5sum: 13503844f9480ebe7d523fed20dbd718
@@ -72,7 +72,7 @@ Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 0.9.41
 Description: Ext3nder by JulioVerne
 Architecture: iphoneos-arm
-Section: Apps 
+Section: Utilities
 Size: 1812310
 Filename: ./com.michalis.ext3nder
 MD5sum: 52ee291e43b001472a66d05721b8742c
@@ -133,6 +133,6 @@ Version: 2.0.2
 Description: Free music
 Architecture: iphoneos-arm
 Section: Entertainment
-Size: 12121426
+Size: 12113017
 Filename: ./com.michalis.bobbymusic.deb
-MD5sum: 920200049ad49c48c70bf062b17ac381
+MD5sum: ffcd0d79201bbfc61aa8b8c7dc59bf72
