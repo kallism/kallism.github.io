@@ -39,16 +39,16 @@ Size: 43668262
 Filename: ./com.michalis.retroarch.deb
 MD5sum: cbf1ab8826ed87069d4b0ff67810d41c
 
-Package: com.michalis.rocketbootstrap_1-0-5
+Package: com.michalis.rocketbootstrap
 Name: RocketBootstrap
 Author: Kallism <michaliskallis@icloud.com>
 Maintainer: Kallism <michaliskallis@icloud.com>
 Version: 1.0.5
 Description: RocketBootstrap by Ryan Petrich
 Architecture: iphoneos-arm
-Section: Dependencies 
+Section: Tweaks
 Size: 49614
-Filename: ./com.michalis.rocketbootstrap_1-0-5.deb
+Filename: ./com.michalis.rocketbootstrap.deb
 MD5sum: 5fc983b20c61ed65e105fcafd6062245
 
 Package: com.michalis.flex3
